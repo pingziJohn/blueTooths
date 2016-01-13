@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">流弊啊</string>
+
+    <string name="navigation_drawer_open">打开导航栏</string>
+    <string name="navigation_drawer_close">关闭导航栏</string>
+
+    <string name="action_settings">设置</string>
+    <string name="action_title">XX系统管理平台</string>
+    <string name="action_loading">登陆</string>
+</resources>
